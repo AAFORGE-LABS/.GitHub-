@@ -10,7 +10,6 @@ AA Forge is a modern software labs we make beautiful ideas come to life!
 
 ---
 ## 🎯 Our Focus
-- 🧠 **Local-First AI:** Empowering users with performant, private, on-device intelligence.
 - ⚡ **High-Performance Architecture:** Lightweight, responsive, and native system integrations.
 - 🔓 **Open Standards:** Building scalable foundations for next-generation developer tooling.
 ---
