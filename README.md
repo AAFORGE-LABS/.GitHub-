@@ -17,7 +17,8 @@ AA Forge is a modern software labs we make beautiful ideas come to life!
 - **Email:** [aaforge.official@gmail.com](mailto:aaforge.official@gmail.com)
 - **GitHub:** [github.com/AAFORGE-LABS](https://github.com/AAFORGE-LABS)
 ---
-<div align="center">
-© 2026 **AA Forge**. All Rights Reserved.  
-*Unauthorized copying, modification, or distribution of proprietary assets is strictly prohibited.*
-</div>
+<p align="center">
+  © 2026 <b>AA Forge</b>. All Rights Reserved.<br>
+  <i>Unauthorized copying, modification, or distribution of proprietary assets is strictly prohibited.</i>
+</p>
+
